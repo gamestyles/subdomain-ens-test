@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.9",
+    "eth-ens-namehash-ms": "^2.2.0",
+    "idna-uts46-hx": "^2.3.1",
+    "js-sha3": "^0.5.7",
+    "punycode": "^2.1.0"
+  }
+}
